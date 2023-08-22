@@ -1,0 +1,8 @@
+3A > It is used to search from command history for the given string . 
+
+3B > ls -a 
+    -a is used to show all the files starting with . or all the hidden files 
+
+3C >  I am comfortable using linux but since I normally don't use so I am not good with command .
+
+3D > No , I have not hosted any web application . 
